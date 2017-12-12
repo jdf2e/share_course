@@ -1,4 +1,4 @@
-# 我们的分享课程
+# 我们的分享
 
 ![](https://user-images.githubusercontent.com/1744713/33865765-2ce57ebe-df2e-11e7-9377-4eb9d7cca518.png)
 
