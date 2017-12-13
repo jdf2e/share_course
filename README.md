@@ -8,5 +8,12 @@
 --- | --- | ---
 [《Promise深入理解》](https://github.com/jdf2e/share_course/issues/1) | [张涛](https://github.com/YeaseonZhang) | 2017-12-12
 [《Promise 浅析》](http://slides.com/phoebe_li/promise) | [李瑞云](https://github.com/804607269) | 2017-12-05
+[《Promise分享》](./courses/Promise分享.pdf) | 单开元 | 2017-12-01
 [《ES6 generator》](./courses/ES6-generator.pdf) | [李非凡](https://github.com/Franslee) | 2017-11-30
+[《css3动画分享》](./courses/css3动画分享.pdf) | 蒋文博 | 2017-11-03
+[《CSS魔法之旅》](./courses/CSS魔法之旅.pdf) | 蔡凤 | 2017-10-23
+[《前端架构及选型之路》](./courses/前端架构及选型之路.pdf) | 冯伟平 | 2017-10-18
+[《移动开发之CSS样式》](./courses/移动开发之CSS样式.pdf) | 卢晶晶 | 2017-10-13
 [《聊一聊垂直居中那些事儿》](./courses/vertical.pdf) | [甄玉磊](https://github.com/zhenyulei) | 2017-09-05
+[《PWA-开发如App般体验的web应用》](./courses/PWA-开发如App般体验的web应用.pdf) | 冯伟平 | 2017-08-16
+[《iconfont&svg-sprite》](./courses/iconfont&svg-sprite.pdf) | 张红叶 | 2017-08-04
