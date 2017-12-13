@@ -16,6 +16,7 @@
 [《前端架构及选型之路》](./courses/2017/前端架构及选型之路.pdf) | 冯伟平 | 2017-10-18
 [《移动开发之CSS样式》](./courses/2017/移动开发之CSS样式.pdf) | 卢晶晶 | 2017-10-13
 [《聊一聊垂直居中那些事儿》](./courses/2017/vertical.pdf) | [甄玉磊](https://github.com/zhenyulei) | 2017-09-05
+[《图片晋级使用》](./图片晋级使用/2017/图片晋级使用.pdf) | 胡淑芳 | 2017-08-23
 [《PWA-开发如App般体验的web应用》](./courses/2017/PWA-开发如App般体验的web应用.pdf) | 冯伟平 | 2017-08-16
 [《iconfont&svg-sprite》](./courses/2017/iconfont&svg-sprite.pdf) | 张红叶 | 2017-08-04
 [《在项目中启用 ESLint 与 Stylelint 检查》](./courses/2017/在项目中启用ESLint与Stylelint检查.md) | [王戈](https://github.com/loveky) | 2017-08-03
