@@ -18,6 +18,6 @@
 [《聊一聊垂直居中那些事儿》](./courses/2017/vertical.pdf) | [甄玉磊](https://github.com/zhenyulei) | 2017-09-05
 [《PWA-开发如App般体验的web应用》](./courses/2017/PWA-开发如App般体验的web应用.pdf) | 冯伟平 | 2017-08-16
 [《iconfont&svg-sprite》](./courses/2017/iconfont&svg-sprite.pdf) | 张红叶 | 2017-08-04
-[《在项目中启用 ESLint 与 Stylelint 检查》](./courses/2017/在项目中启用 ESLint 与 Stylelint 检查.md) | [王戈](https://github.com/loveky) | 2017-08-03
+[《在项目中启用 ESLint 与 Stylelint 检查》](./courses/2017/在项目中启用ESLint与Stylelint检查.md) | [王戈](https://github.com/loveky) | 2017-08-03
 [《cms操作流程及问题处理》](./courses/2016/cms操作流程及问题处理.pdf) | 孔凡家 | 2016-11-22
 [《如何写可维护代码》](./courses/2016/如何写可维护代码.pdf) | 杨磊 | 2016-11-12 
