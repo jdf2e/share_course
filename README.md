@@ -11,6 +11,7 @@
 [《Promise分享》](./courses/Promise分享.pdf) | 单开元 | 2017-12-01
 [《ES6 generator》](./courses/ES6-generator.pdf) | [李非凡](https://github.com/Franslee) | 2017-11-30
 [《css3动画分享》](./courses/css3动画分享.pdf) | 蒋文博 | 2017-11-03
+[《webpack+vue+vuex+axios单页面应用项目实战分享》](./courses/webpack+vue+vuex+axios单页面应用项目实战分享.pdf) | 廖艳丽 | 2017-11-03
 [《CSS魔法之旅》](./courses/CSS魔法之旅.pdf) | 蔡凤 | 2017-10-23
 [《前端架构及选型之路》](./courses/前端架构及选型之路.pdf) | 冯伟平 | 2017-10-18
 [《移动开发之CSS样式》](./courses/移动开发之CSS样式.pdf) | 卢晶晶 | 2017-10-13
