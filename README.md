@@ -18,3 +18,4 @@
 [《聊一聊垂直居中那些事儿》](./courses/vertical.pdf) | [甄玉磊](https://github.com/zhenyulei) | 2017-09-05
 [《PWA-开发如App般体验的web应用》](./courses/PWA-开发如App般体验的web应用.pdf) | 冯伟平 | 2017-08-16
 [《iconfont&svg-sprite》](./courses/iconfont&svg-sprite.pdf) | 张红叶 | 2017-08-04
+[在项目中启用 ESLint 与 Stylelint 检查](https://github.com/jdf2e/share_course/blob/master/courses/%E5%9C%A8%E9%A1%B9%E7%9B%AE%E4%B8%AD%E5%90%AF%E7%94%A8%20ESLint%20%E4%B8%8E%20Stylelint%20%E6%A3%80%E6%9F%A5.md) | [王戈](https://github.com/loveky) | 2017-08-03
