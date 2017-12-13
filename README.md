@@ -1,6 +1,6 @@
 # 我们的分享
 
->提交自己的分享时，请直接放到 courses 目录里即可。修改 README 时，请尽量按照日期倒排序书写，感谢各位。
+>提交分享时，请转换成 pdf 或者 markdown 文件，然后直接放到 courses 目录里即可。修改 README 时，请尽量按照日期倒排序书写，感谢各位。
 
 ![](https://user-images.githubusercontent.com/1744713/33865765-2ce57ebe-df2e-11e7-9377-4eb9d7cca518.png)
 
